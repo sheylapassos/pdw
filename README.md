@@ -43,7 +43,7 @@ Para visualizar e executar esta landing page, você precisará:
 - Este projeto foi desenvolvido como parte de um trabalho individual para a clínica Brilhante.
 
 ## Links Importantes
-- **Repositório GitHub:** [Clique aqui](https://github.com/sheylapassos/sistematizacaopdw.git)
+- **Repositório GitHub:** [Clique aqui](https://github.com/sheylapassos/pdw.git)
 - **Vídeo de Apresentação:** [Clique aqui](https://youtu.be/ypsyjKL5_QY?si=84mZ1v46i-B5IV5e)
 
 ## Observações

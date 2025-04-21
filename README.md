@@ -44,7 +44,7 @@ Para visualizar e executar esta landing page, você precisará:
 
 ## Links Importantes
 - **Repositório GitHub:** [Clique aqui](https://github.com/sheylapassos/sistematizacaopdw.git)
-- **Vídeo de Apresentação:** [Clique aqui](https://youtu.be/seu-link-de-video)
+- **Vídeo de Apresentação:** [Clique aqui](https://youtu.be/ypsyjKL5_QY?si=84mZ1v46i-B5IV5e)
 
 ## Observações
 Se houver dúvidas ou sugestões, entre em contato pelo formulário na página ou envie uma mensagem através do GitHub.
